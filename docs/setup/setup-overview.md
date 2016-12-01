@@ -9,15 +9,14 @@ MetaDescription: Get Visual Studio Code up and running.
 MetaSocialImage: quicksetup_QuickSetup.png
 ---
 
-# Setting up Visual Studio Code
+# 设置Visual Studio代码
 
 Getting up and running with VS Code is quick and easy. It is a small download so you can install in a matter of minutes and give VS Code a try.
 
-## Cross Platform
+## 跨平台
 
-VS Code is a free code editor which runs on the Mac, Linux and Windows operating systems.
-
-Follow the platform specific guides below:
+VS Code是一个免费的代码编辑器，可在Mac，Linux和Windows操作系统上运行。
+请遵循以下平台特定指南:
 
 * [Mac](/docs/setup/mac.md)
 * [Linux](/docs/setup/linux.md)
